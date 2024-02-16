@@ -5,5 +5,6 @@ La Fonderie, oeuvre de Jeremy Shaw
 <h2>
   Adresse: 745 Rue Ottawa, Montréal QC H3C 1R8 
 </h2>
+
  ![photo](media/banniere_fonderie.png)
 
