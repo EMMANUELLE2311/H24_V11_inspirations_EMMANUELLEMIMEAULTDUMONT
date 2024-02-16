@@ -8,3 +8,6 @@ La Fonderie, oeuvre de Jeremy Shaw
 
  ![photo](media/banniere_fonderie.png)
 
+<h3>
+  À l'extérieur, 
+</h3>
