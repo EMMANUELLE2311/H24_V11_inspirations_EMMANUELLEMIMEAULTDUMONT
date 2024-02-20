@@ -13,10 +13,10 @@ La Fonderie, oeuvre de Jeremy Shaw
 soi garder nos chaussure, 
 mais les protéger d'une semelle supplémentaire qui est fourni, soi les enlever.
 Je décide donc, de les retirer pour créer un meilleur confort. 
+ <br> 
 
 ![photo](media/entrer_oeuvre.png)
 
- <br> 
 Pendant l'attente, j'analyse au loin les trois murs monochromes au fond de la salle séparée par une porte ouverte.
 Il ya des photos avec un effet de décalage entre eux.
 
