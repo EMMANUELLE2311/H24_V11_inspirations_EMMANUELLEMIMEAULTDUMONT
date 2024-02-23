@@ -41,6 +41,8 @@ pris sur le site web directement
 
 Les quatres phases:
 
+La première phase, sur chaque station, il y avait de similitude, ils comprennaient tous des gens qui interpretaient des mouvement sois sacadés ou plus fluide.
+
 ![photo](media/lumiere_projecter.png)
 
 Jeremy Shaw a utilisé plusieurs outils pour son oeuvre dont des projecteurs. Il y en avait sur chaque écran, c'est-à-dire sept écrans totals.
