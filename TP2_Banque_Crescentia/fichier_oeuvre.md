@@ -8,6 +8,8 @@
 <br>
 <h4>
   réalisateurs et créateurs:
+  <hr>
+  <br>
   <li>Jolyanne Desjardins</li>
   <li>MaÏka Désy</li>
   <li>Laurie Houde</li>
