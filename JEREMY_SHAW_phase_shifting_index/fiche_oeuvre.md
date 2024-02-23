@@ -37,11 +37,15 @@ pris sur le site web directement
 
 ![photo](media/entrer.jpg)
 
+![photo](media/ecran.jpg)
+
 Les quatres phases:
 
 ![photo](media/lumiere_projecter.png)
 
-Jeremy a utilisé plusieurs outils pour son oeuvre dont des projecteurs .
+Jeremy Shaw a utilisé plusieurs outils pour son oeuvre dont des projecteurs. Il y en avait sur chaque écran, c'est-à-dire sept écrans totals.
+Les fils sont protégés par des tuyaux de métal au plafond. De plus, on y retrouve des projection de lumière pour donner une meilleur expérience et 
+y rajouter de la couleur. 
 
 ![photo](media/outils_utilisees.png)
 
