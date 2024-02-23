@@ -20,7 +20,10 @@
 <h5>
   Les pensées rizhomatiques signifient que le cerveau fait l'opération d'explorer et non l'opération de se questionner sur le sujet,
   il passe a l'action à cause de la curiosité et cette démarche aide a évoluer la créativité.
-  Les réalisateurs ont mis en oeuvre ce concepte avec du matériels adéquats, dont une toile interactive.
+  Un peu comme les enfants, ils réfléchient peu et ils préfèrent le découvrire au toucher.
+  À mon avis, l'oeuvre fait ressortir l'enfant en nous, l'exploration,la découverte par le toucher.
+  Un contacte et nous sommes retournées dans nos mémorisations les plus marquantes et les plus lointaines.
+  Passons maintenant a la mise en place de la scène imaginée,les réalisateurs ont mis en oeuvre ce concepte avec du matériels adéquats,cohérant avec le visuel qu'ils veulent présenter,dont une toile interactive.
   Quand nous denons vie a cette toile, elle s'illumine d'un vert éclatant. Cette lumière est comparée au sentiment de nostalgie,plus l'interaction est forte, plus les souvenirs deviennent clairs.
   De plus,cette oeuvre est une projection immersive parce que les étudiants ont utilisés du mapping et digital design.
   On peux le distinguer a cause des couleurs harmonieuses, chaleureuses, mélodieuses et l'animation créées dû au contacte avec la machine.
