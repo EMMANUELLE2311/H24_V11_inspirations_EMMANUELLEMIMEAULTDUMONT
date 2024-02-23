@@ -16,8 +16,21 @@ La première partie de la salle
 
 </h4>
 
-![photo](media/croquis_plan_de_la_salle.png)
-<img src="https://user-images.githubusercontent.com/![photo](media/croquis_plan_de_la_salle.png)" width="200" />
+![photo](media/fille_priere.png)
+
+![photo](media/ecran.png)
+
+![photo](media/lumiere_projecter.png)
+
+![photo](media/outils_utilisees.png)
+
+![photo](media/projecteur.png)
+
+
+
+
+
+
 
 
 
