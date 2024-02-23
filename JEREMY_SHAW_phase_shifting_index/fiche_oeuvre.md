@@ -49,7 +49,10 @@ y rajouter de la couleur.
 
 ![photo](media/outils_utilisees.png)
 
-![photo](media/projecteur.png)
+![photo](media/projecteur_1.png)
+
+J'ai vécu beaucoup d'épreuves émouvantes, du stress, des émotions et une perte de controle parce que je rentrait un peu en transe a cause 
+du choix de musique sychronisée aux vidéos.
 
 
 
