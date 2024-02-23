@@ -32,6 +32,8 @@ En rentrant dans la fameuse salle, je remarque qu'elle est vaste. Elle est enrob
 de plusieurs bancs positionnés devant chaque station de cours-métrage. De plus, un banc supplémentaire est accoté sur le mur principale
 pour laisser place à une ensemble de l'oeuvre entière.
 
+lien de l'image: https://macm.org/expositions/jeremy-shaw/
+pris sur le site web directement
 
 ![photo](media/entrer.jpg)
 
