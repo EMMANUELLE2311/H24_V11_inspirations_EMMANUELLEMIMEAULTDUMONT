@@ -16,5 +16,9 @@ La première partie de la salle
 
 </h4>
 
+![photo](media/croquis_plan_de_la_salle.png)
+
+
+
 
 
