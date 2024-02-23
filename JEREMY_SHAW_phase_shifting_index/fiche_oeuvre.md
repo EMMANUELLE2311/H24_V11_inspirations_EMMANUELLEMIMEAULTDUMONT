@@ -42,6 +42,14 @@ pris sur le site web directement
 Les quatres phases:
 
 La première phase, sur chaque station, il y avait de similitude, ils comprennaient tous des gens qui interpretaient des mouvement sois sacadés ou plus fluide.
+Pour chacune, c'était définit dans différente époque et plusieurs styles de danses.
+
+La deuxieme, un évenement inattendu ce produit,le volume augmente de plus en plus pour faire monter la tension et les lumières commencent a clignoté et me procure un intense stresse d'un coup.
+Je me sentais débouseler et instable.Les cours vidéos se diffusent en même temps.
+
+La troisième, le tempo ralenti et les images se décomposent en pixel et elles interchagent l'une avec les autres. Elles donnent un effet psychadélique.
+
+La quatrième,  Je me sens plus apaisée et calme. Mes muscles se relachent et se détendent.
 
 ![photo](media/lumiere_projecter.png)
 
