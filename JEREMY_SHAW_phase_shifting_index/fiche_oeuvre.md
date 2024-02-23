@@ -38,7 +38,7 @@ pris sur le site web directement
 
 ![photo](media/entrer.jpg)
 
-![photo](media/.jpg)
+![photo](media/croquis_plan_de_la_salle.png)
 
 ![photo](media/ecran.jpg)
 
