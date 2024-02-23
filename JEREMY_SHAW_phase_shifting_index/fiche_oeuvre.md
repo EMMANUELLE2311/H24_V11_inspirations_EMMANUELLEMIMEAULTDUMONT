@@ -40,7 +40,7 @@ pris sur le site web directement
 
 ![photo](media/croquis_plan_de_la_salle.png)
 
-![photo](media/ecran.jpg)
+![photo](media/ecran.png)
 
 Les quatres phases:
 
