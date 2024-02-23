@@ -38,6 +38,8 @@ pris sur le site web directement
 
 ![photo](media/entrer.jpg)
 
+![photo](media/.jpg)
+
 ![photo](media/ecran.jpg)
 
 Les quatres phases:
