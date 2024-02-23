@@ -1,6 +1,6 @@
 <h1>Crescentia</h1>
 
-<h2>Les projets des troisième années</h2>
+<h2>Les projets des troisième années, en 2024</h2>
 
 <h4>Les oeuvres sont présentés dans les studios du cégep Montmorency, située 475 De L'avenir Boul, Laval QC H7N5H9</h4>
 
@@ -24,6 +24,8 @@
   Quand nous denons vie a cette toile, elle s'illumine d'un vert éclatant. Cette lumière est comparée au sentiment de nostalgie,plus l'interaction est forte, plus les souvenirs deviennent clairs.
   De plus,cette oeuvre est une projection immersive parce que les étudiants ont utilisés du mapping et digital design.
   On peux le distinguer a cause des couleurs harmonieuses, chaleureuses, mélodieuses et l'animation créées dû au contacte avec la machine.
+  Ils sont ajoutés deux projecteurs en hauteur pour diffuser des vidéos qui font référence a des moments du passé.
+  Ils étaient obligés dans intégrer deux parce que sinon l'opacité de la projection était peu visible,donc base.
   
 
 </h5>
