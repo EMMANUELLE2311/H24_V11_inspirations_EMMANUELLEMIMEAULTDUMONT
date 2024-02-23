@@ -17,6 +17,7 @@ La première partie de la salle
 </h4>
 
 ![photo](media/croquis_plan_de_la_salle.png)
+<img src="https://user-images.githubusercontent.com/![photo](media/croquis_plan_de_la_salle.png)" width="200" />
 
 
 
