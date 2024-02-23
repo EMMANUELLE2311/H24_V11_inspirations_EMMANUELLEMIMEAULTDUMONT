@@ -11,6 +11,7 @@ Réalisé en 2020.
 
 <h4>
 La première partie de la salle:
+Elle est visible a l'entrer directement.
 <br> 
 
 ![photo](media/entrer_oeuvre.png)
@@ -49,7 +50,8 @@ Je me sentais débouseler et instable.Les cours vidéos se diffusent en même te
 
 La troisième, le tempo ralenti et les images se décomposent en pixel et elles interchagent l'une avec les autres. Elles donnent un effet psychadélique.
 
-La quatrième,  Je me sens plus apaisée et calme. Mes muscles se relachent et se détendent.
+La quatrième,  Je me sens plus apaisée et calme. Mes muscles se relachent et se détendent. Un fond d'écran animé apparait sur chaque toile. Les couleurs mixées me procuraient un sentiment de calme.
+Elles n'étaient pas saturées, seulement douces et plus foncés. Le rose, le bleu et le mauve mélangées ensemble et la fluidité du mouvement affecte le cerveau, mais de la bonne facon.
 
 ![photo](media/lumiere_projecter.png)
 
