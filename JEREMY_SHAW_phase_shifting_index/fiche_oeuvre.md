@@ -28,6 +28,10 @@ Voici un exemple d'une image:
 
 ![photo](media/fille_priere.png)
 
+En rentrant dans la fameuse salle, je remarque
+
+![photo](media/entrer.png)
+
 
 
 ![photo](media/ecran.png)
