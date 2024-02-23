@@ -28,9 +28,12 @@ Voici un exemple d'une image:
 
 ![photo](media/fille_priere.png)
 
-En rentrant dans la fameuse salle, je remarque
+En rentrant dans la fameuse salle, je remarque qu'elle est vaste. Elle est enrobée de tapis gris confortable et
+de plusieurs bancs positionnés devant chaque station de cours-métrage. De plus, un banc supplémentaire est accoté sur le mur principale
+pour laisser place à une ensemble de l'oeuvre entière.
 
-![photo](media/entrer.png)
+
+![photo](media/entrer.jpg)
 
 
 
