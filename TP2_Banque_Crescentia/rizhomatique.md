@@ -51,7 +51,6 @@
     <li>sortie midi</li>
   <br>
   <h4>L'interface audio</h4>
-  <br>
   <h5>les pilotes</h5>
   <br>
   <li>Core Audio sur MacOS
