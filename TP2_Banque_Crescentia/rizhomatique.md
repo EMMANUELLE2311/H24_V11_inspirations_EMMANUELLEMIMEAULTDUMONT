@@ -30,7 +30,7 @@
   De plus,cette oeuvre est une projection immersive parce que les étudiants ont utilisés du mapping et digital design.
   On peux le distinguer a cause des couleurs harmonieuses, chaleureuses, mélodieuses et l'animation créées dû au contacte avec la machine.
   Ils sont ajoutés deux projecteurs en hauteur pour diffuser des vidéos qui font référence a des moments du passé.
-  Ils étaient obligés dans intégrer deux parce que sinon l'opacité était peu visible,donc base.
+  Ils étaient obligés dans intégrer deux parce que sinon l'opacité était peu visible,donc elle était base.
   
 
 </h5>
