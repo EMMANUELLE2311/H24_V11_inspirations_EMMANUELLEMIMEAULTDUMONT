@@ -22,9 +22,9 @@
 <li>logiciel VCV rack free</li>
 <li>logiciel Touche Design</li>
 
-<h3>contexte</h3>
+<h2>contexte</h2>
 
-<h5>
+<h4>
   Il est important de comprendre la signification du titre choisi:
   Les pensées rizhomatiques signifient que le cerveau fait l'opération d'explorer et non l'opération de se questionner sur le sujet,
   il passe a l'action à cause de la curiosité et cette démarche aide a évoluer la créativité.
@@ -39,7 +39,7 @@
   On peux le distinguer a cause des couleurs harmonieuses, chaleureuses, mélodieuses et l'animation créées dû au contacte avec la machine.
   Ils sont ajoutés deux projecteurs en hauteur pour diffuser des vidéos qui font référence a des moments du passé.
   Ils étaient obligés dans intégrer deux parce que sinon l'opacité était peu visible,donc elle était base.
-</h5>
+</h4>
 <br>
 <h3>Logiciel VCV</h3>
 <br>
