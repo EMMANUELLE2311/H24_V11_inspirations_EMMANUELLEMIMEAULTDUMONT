@@ -1,8 +1,8 @@
 <h1>Crescentia</h1>
 
-<h2>Les projets des troisième années, en 2024</h2>
+<h2>Projets des troisième années, en 2024</h2>
 
-<h4>Les oeuvres sont présentés dans les studios du cégep Montmorency, située 475 De L'avenir Boul, Laval QC H7N5H9</h4>
+<h4>Cette oeuvre est présenté dans les studios du cégep Montmorency, située 475 De L'avenir Boul, Laval QC H7N5H9</h4>
 
 <h3>Rizhomatique</h3>
 <br>
@@ -21,6 +21,8 @@
 <li>une toile intéractive</li>
 <li>logiciel VCV rack free</li>
 <li>logiciel Touche Design</li>
+
+<h3>contexte</h3>
 
 <h5>
   Il est important de comprendre la signification du titre choisi:
