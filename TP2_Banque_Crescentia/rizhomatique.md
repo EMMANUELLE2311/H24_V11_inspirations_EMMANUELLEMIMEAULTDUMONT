@@ -72,7 +72,7 @@ Les couleurs m'attiraients et elles m'ont d'ailleurs suprises. Le vert et le mau
 <h2>Mon ressentiment a la fin...</h2>
 <h4>
   À la fin,j'ai été submergé par l'étonnement. Il y avait maintenant trois projecteurs qui diffusaient chaque image sur chaque coté du murs.
-  La pression de la main était prise en compte. Par exemple, si nous mettions une pression plus forte a droite que celle a gauche, c'est le droite qui gagnaiy.
+  La pression de la main était prise en compte. Par exemple, si nous mettions une pression plus forte a droite que celle a gauche, c'est le droite qui gagnait.
   
 </h4>
 
