@@ -39,5 +39,25 @@
   Ils étaient obligés dans intégrer deux parce que sinon l'opacité était peu visible,donc elle était base.
 </h5>
 <br>
+<h4>Logiciel VCV</h4>
+<br>
+<h5>
+  Ce logiciel intelligent sert surtout au controle de l'audio vers le périphérique audio choisi.Il parait complexe, mais il suffit de bien s'informer et le tour est jouer!
+  Tous les informations sur https://vcvrack.com/manual/Core.
+
+  Voici chaque composante:
+  <li>l'interface audio</li>
+   <li>l'entrée midi</li>
+    <li>sortie midi</li>
+  <br>
+  <h4>L'interface audio</h4>
+  <br>
+  <h5>les pilotes</h5>
+  <li>Core Audio sur MacOS
+  <li>WASAPI sous Windows</li>
+  <li>ASIO sous Windows</li>
+  <li>ALSA sur Linux</li>
+  <li>JACK sous Linux</li>
+</h5>
 
 
