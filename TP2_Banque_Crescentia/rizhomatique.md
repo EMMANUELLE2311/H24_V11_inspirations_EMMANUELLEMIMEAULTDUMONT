@@ -41,7 +41,7 @@
   Ils étaient obligés dans intégrer deux parce que sinon l'opacité était peu visible,donc elle était base.
 </h5>
 <br>
-<h4>Logiciel VCV</h4>
+<h3>Logiciel VCV</h3>
 <br>
 <h5>
   Ce logiciel intelligent sert surtout au controle de l'audio vers le périphérique audio choisi.Il parait complexe, mais il suffit de bien s'informer et le tour est jouer!
