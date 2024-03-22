@@ -52,7 +52,6 @@
    <li>l'entrée midi</li>
     <li>sortie midi</li>
   <br>
-  <h4>L'interface audio</h4>
   <h5>les pilotes</h5>
   <br>
   <li>Core Audio sur MacOS
@@ -62,6 +61,7 @@
   <li>JACK sous Linux</li>
 </h5>
 <h4>En choisisant un pilote, nous pouvons choisir un périphérique par la suite.</h4>
+<h4>En résumer,nous devons </h4>
 
 
 
