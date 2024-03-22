@@ -14,8 +14,13 @@
   <li>MaÏka Désy</li>
   <li>Laurie Houde</li>
   <li>Felix Testa Radovanovic</li>
-
 </h4>
+<br>
+<h4>Équipements</h4>
+<li>trois projecteurs</li>
+<li>une toile intéractive</li>
+<li>logiciel VCV rack free</li>
+<li>logiciel Touche Design</li>
 
 <h5>
   Il est important de comprendre la signification du titre choisi:
@@ -34,8 +39,5 @@
   Ils étaient obligés dans intégrer deux parce que sinon l'opacité était peu visible,donc elle était base.
 </h5>
 <br>
-<h4>équipement</h4>
-<li>trois projecteurs</li>
-<li>une toile intéractive</li>
-<li>logiciel VCV rack free</li>
-<li>logiciel Touche Design</li>
+
+
