@@ -60,8 +60,8 @@
   <li>ALSA sur Linux</li>
   <li>JACK sous Linux</li>
 </h5>
-<h4>En choisisant un pilote, nous pouvons choisir un périphérique par la suite.</h4>
-<h4>En résumer,nous devons prend un bout d'un cable et d'un autre que nous relions chacun sur un ambout. </h4>
+<h5>En choisisant un pilote, nous pouvons choisir un périphérique par la suite.</h5>
+<h5>En résumer,nous devons prend un bout d'un cable et d'un autre que nous relions chacun sur un ambout. </h5>
 
 <h2>Mon ressentiment au départ...</h2>
 <h4>
