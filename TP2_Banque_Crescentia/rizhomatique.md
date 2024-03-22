@@ -59,5 +59,7 @@
   <li>ALSA sur Linux</li>
   <li>JACK sous Linux</li>
 </h5>
+<h4>En choisisant un pilote, nous pouvons choisir un périphérique par la suite.</h4>
+
 
 
