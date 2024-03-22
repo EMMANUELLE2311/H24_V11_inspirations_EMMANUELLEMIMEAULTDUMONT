@@ -27,7 +27,7 @@
 <h4>
   Il est important de comprendre la signification du titre choisi:
   Les pensées rizhomatiques signifient que le cerveau fait l'opération d'explorer et non l'opération de se questionner sur le sujet,
-  il passe a l'action à cause de la curiosité et cette démarche aide a évoluer la créativité.
+  il passe a l'action causer par la curiosité et cette démarche aide a évoluer la créativité.
   Un peu comme les enfants, ils réfléchient peu et ils préfèrent le découvrire au toucher.
   À mon avis, l'oeuvre fait ressortir l'enfant en nous, l'exploration,la découverte par le toucher.
   Un contacte et nous sommes retournées dans nos mémorisations les plus marquantes et les plus lointaines.
