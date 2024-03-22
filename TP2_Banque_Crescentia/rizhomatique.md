@@ -61,7 +61,18 @@
   <li>JACK sous Linux</li>
 </h5>
 <h4>En choisisant un pilote, nous pouvons choisir un périphérique par la suite.</h4>
-<h4>En résumer,nous devons </h4>
+<h4>En résumer,nous devons prend un bout d'un cable et d'un autre que nous relions chacun sur un ambout. </h4>
+
+<h2>Mon ressentiment au départ...</h2>
+<h4>
+Au départ, j'étais perplexe par rapport à la réalisation final. Je n'étais pas capable de m'imaginer comment le projet allais aboutir.
+Je le trouvais simpliste et d'apparence il paraissait moins détailé que les autres projets.Par contre, j'aimais quand même le thème.
+Les couleurs m'attiraients et elles m'ont d'ailleurs suprises. Le vert et le mauve ensemble crée un mystère. 
+</h4>
+<h2>Mon ressentiment a la fin...</h2>
+<h4>
+  À la fin, 
+</h4>
 
 
 
