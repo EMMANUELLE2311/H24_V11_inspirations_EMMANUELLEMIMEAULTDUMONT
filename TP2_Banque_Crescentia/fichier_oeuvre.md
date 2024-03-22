@@ -30,34 +30,25 @@
 <h5>lumière</h5>
 <li>1 Lumière DMX</li>
 <h5>Audio</h5>
-<li>
-2 haut-parleurs
-5 fils XLR 3 conducteurs de 15' (M->F)
-1 carte de son
-<li>
-<li>Vidéo</li>
-<h5>
-1 projecteur vidéo shortrow
-1 projo ultra short-throw
-3 système d'acrochage
-1 KinectV2
-</h5>
-<li>électricité</li>
-<h5>
-2 cordon IEC (pour l'alimentation des haut-parleurs)
-4 Multiprises
-</h5>
-<li>Réseaux</li>
-<h5>
-Switch poe 1 port
-Switch Ethernet 3 ports
-7 Cables Ethernet
-4 Cables HDMI
-2 Receivers HDMI
-2 Sender HDMI
-</h5>
-<li>Appareils électroniques</li>
-<h5>
-1 ordinateur
-1 laptop
-</h5>
+<li>2 haut-parleurs</li>
+<li>5 fils XLR 3 conducteurs de 15' (M->F)</li>
+<li>1 carte de son</li>
+<h5>Vidéo</h5>
+<li>1 projecteur vidéo shortrow</li>
+<li>1 projo ultra short-throw</li>
+<li>3 système d'acrochage</li>
+<li>1 KinectV2</li>
+<h5>électricité</h5>
+<li>2 cordon IEC (pour l'alimentation des haut-parleurs)</li>
+<li>4 Multiprises</li>
+<h5>Réseaux</h5>
+<li>Switch poe 1 port</li>
+<li>Switch Ethernet 3 ports</li>
+<li>7 Cables Ethernet</li>
+<li>4 Cables HDMI</li>
+<li>2 Receivers HDMI<li>
+<li>2 Sender HDMI</li>
+<h5>Appareils électroniques</h5>
+<li>1 ordinateur</li>
+<li>1 laptop</li>
+
