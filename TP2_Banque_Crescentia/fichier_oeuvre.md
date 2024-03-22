@@ -4,33 +4,60 @@
 
 <h4>Les oeuvres sont présentés dans les studios du cégep Montmorency, située 475 De L'avenir Boul, Laval QC H7N5H9</h4>
 
-<h3>Rizhomatique</h3>
+<h3>Canevas cosmique</h3>
 <br>
 <h4>
   réalisateurs et créateurs:
   <hr>
   <br>
-  <li>Jolyanne Desjardins</li>
-  <li>MaÏka Désy</li>
-  <li>Laurie Houde</li>
-  <li>Felix Testa Radovanovic</li>
+  <li>Jacob Alarie-Brousseau</li>
+  <li>Étienne Charron</li>
+  <li>Jérémy Cholette</li>
+  <li>Quoc Huy Do</li>
+  <li>Mikaël Tourangeau</li>
 
 </h4>
 
-<h5>
-  Il est important de comprendre la signification du titre choisi:
-  Les pensées rizhomatiques signifient que le cerveau fait l'opération d'explorer et non l'opération de se questionner sur le sujet,
-  il passe a l'action à cause de la curiosité et cette démarche aide a évoluer la créativité.
-  Un peu comme les enfants, ils réfléchient peu et ils préfèrent le découvrire au toucher.
-  À mon avis, l'oeuvre fait ressortir l'enfant en nous, l'exploration,la découverte par le toucher.
-  Un contacte et nous sommes retournées dans nos mémorisations les plus marquantes et les plus lointaines.
-  
-  Passons maintenant a la mise en place de la scène imaginée,les réalisateurs ont mis en oeuvre ce concepte avec du matériels adéquats,cohérant avec le visuel qu'ils veulent présenter,dont une toile interactive.
-  Quand nous denons vie a cette toile, elle s'illumine d'un vert éclatant. Cette lumière est comparée au sentiment de nostalgie,plus l'interaction est forte, plus les souvenirs deviennent clairs.
-  De plus,cette oeuvre est une projection immersive parce que les étudiants ont utilisés du mapping et digital design.
-  On peux le distinguer a cause des couleurs harmonieuses, chaleureuses, mélodieuses et l'animation créées dû au contacte avec la machine.
-  Ils sont ajoutés deux projecteurs en hauteur pour diffuser des vidéos qui font référence a des moments du passé.
-  Ils étaient obligés dans intégrer deux parce que sinon l'opacité était peu visible,donc base.
-  
+<h4>
+  Équipements de base
+</h4>
+<li>Statuettes</li>
+<li>paysages sonors</li>
+<li>VFX d'animation 3D</li>
+<li>source lumineuse</li>
 
+<h4>Équipements détaillés</h4>
+<li>lumière</li>
+<h5>1 Lumière DMX</h5>
+<li>Audio</li>
+<h5>
+2 haut-parleurs
+5 fils XLR 3 conducteurs de 15' (M->F)
+1 carte de son
+</h5>
+<li>Vidéo</li>
+<h5>
+1 projecteur vidéo shortrow
+1 projo ultra short-throw
+3 système d'acrochage
+1 KinectV2
+</h5>
+<li>électricité</li>
+<h5>
+2 cordon IEC (pour l'alimentation des haut-parleurs)
+4 Multiprises
+</h5>
+<li>Réseaux</li>
+<h5>
+Switch poe 1 port
+Switch Ethernet 3 ports
+7 Cables Ethernet
+4 Cables HDMI
+2 Receivers HDMI
+2 Sender HDMI
+</h5>
+<li>Appareils électroniques</li>
+<h5>
+1 ordinateur
+1 laptop
 </h5>
