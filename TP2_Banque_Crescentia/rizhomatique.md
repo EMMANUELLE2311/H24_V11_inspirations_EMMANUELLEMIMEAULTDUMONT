@@ -31,6 +31,10 @@
   On peux le distinguer a cause des couleurs harmonieuses, chaleureuses, mélodieuses et l'animation créées dû au contacte avec la machine.
   Ils sont ajoutés deux projecteurs en hauteur pour diffuser des vidéos qui font référence a des moments du passé.
   Ils étaient obligés dans intégrer deux parce que sinon l'opacité était peu visible,donc elle était base.
-  
-
 </h5>
+<br>
+<h4>équipement</h4>
+<li>trois projecteurs</li>
+<li>toile intéractive</li>
+<li>logiciel VCV rack free</li>
+<li>logiciel Touche Design</li>
