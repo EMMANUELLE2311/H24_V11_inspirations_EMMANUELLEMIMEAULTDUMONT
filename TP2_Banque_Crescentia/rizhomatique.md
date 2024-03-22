@@ -27,6 +27,7 @@
   
   Passons maintenant a la mise en place de la scène imaginée,les réalisateurs ont mis en oeuvre ce concepte avec du matériels adéquats,cohérant avec le visuel qu'ils veulent présenter,dont une toile interactive.
   Quand nous denons vie a cette toile, elle s'illumine d'un vert éclatant. Cette lumière est comparée au sentiment de nostalgie,plus l'interaction est forte, plus les souvenirs deviennent clairs.
+  Si nous mettons une pression vers la droite une image va donc apparaitre sur la droite et vice-versa.
   De plus,cette oeuvre est une projection immersive parce que les étudiants ont utilisés du mapping et digital design.
   On peux le distinguer a cause des couleurs harmonieuses, chaleureuses, mélodieuses et l'animation créées dû au contacte avec la machine.
   Ils sont ajoutés deux projecteurs en hauteur pour diffuser des vidéos qui font référence a des moments du passé.
@@ -35,6 +36,6 @@
 <br>
 <h4>équipement</h4>
 <li>trois projecteurs</li>
-<li>toile intéractive</li>
+<li>une toile intéractive</li>
 <li>logiciel VCV rack free</li>
 <li>logiciel Touche Design</li>
