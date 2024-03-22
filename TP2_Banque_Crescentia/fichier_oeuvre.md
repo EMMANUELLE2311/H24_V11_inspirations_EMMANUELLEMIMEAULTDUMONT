@@ -27,14 +27,14 @@
 <li>source lumineuse</li>
 
 <h4>Équipements détaillés</h4>
-<li>lumière</li>
-<h5>1 Lumière DMX</h5>
-<li>Audio</li>
-<h5>
+<h5>lumière</h5>
+<li>1 Lumière DMX</li>
+<h5>Audio</h5>
+<li>
 2 haut-parleurs
 5 fils XLR 3 conducteurs de 15' (M->F)
 1 carte de son
-</h5>
+<li>
 <li>Vidéo</li>
 <h5>
 1 projecteur vidéo shortrow
