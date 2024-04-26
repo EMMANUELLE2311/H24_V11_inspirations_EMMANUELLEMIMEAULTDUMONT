@@ -24,7 +24,12 @@
 
 <h3>source:emmanuelle mimeault-dumont</h3>
 
-<h3>L'option language est meme la disposition pour les participants.Cela attire plus de personnes a venir l'essayer.</h3>
+<h4>L'option language est meme la disposition pour les participants.Cela attire plus de personnes a venir l'essayer.</h4>
+
+<h3>Mon opinion</h3>
+<h4>Personnellement, je n'ai pas beaucoup de commentaires ou de descriptions a dire,malheureusement, parce que le guide qui nous accompagnais ne donnais pas beaucoup d'informations.J'ai donc de la difficulter a descrire se jeu et a bien detailler les composantes.</h4>
+
+
 
 
 
