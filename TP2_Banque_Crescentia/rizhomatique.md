@@ -5,6 +5,9 @@
 <h4>Cette oeuvre est présenté dans les studios du cégep Montmorency, située 475 De L'avenir Boul, Laval QC H7N5H9</h4>
 
 <h3>Rizhomatique</h3>
+
+![photo](main.png)
+
 <br>
 <h4>
   réalisateurs et créateurs:
@@ -31,7 +34,10 @@
   Un peu comme les enfants, ils réfléchient peu et ils préfèrent le découvrire au toucher.
   À mon avis, l'oeuvre fait ressortir l'enfant en nous, l'exploration,la découverte par le toucher.
   Un contacte et nous sommes retournées dans nos mémorisations les plus marquantes et les plus lointaines.
-  
+
+  ![photo](mouvement.png)
+
+  <h3>source:emmanuelle mimeault-dumont<h3/>
   Passons maintenant a la mise en place de la scène imaginée,les réalisateurs ont mis en oeuvre ce concepte avec du matériels adéquats,cohérant avec le visuel qu'ils veulent présenter,dont une toile interactive.
   Quand nous denons vie a cette toile, elle s'illumine d'un vert éclatant. Cette lumière est comparée au sentiment de nostalgie,plus l'interaction est forte, plus les souvenirs deviennent clairs.
   Si nous mettons une pression vers la droite une image va donc apparaitre sur la droite et vice-versa.
