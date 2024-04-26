@@ -4,6 +4,10 @@ h1>Crescentia</h1>
 <h3>Kigo</h3>
 <h4>Les oeuvres sont présentés dans les studios du cégep Montmorency, située 475 De L'avenir Boul, Laval QC H7N5H9</h4>
 <br>
+
+![photo](medias/kigo.png)
+
+<h3>source:emmanuelle mimeault-dumont<h3/>
 <h4>
   réalisateurs et créateurs:
   <hr>
