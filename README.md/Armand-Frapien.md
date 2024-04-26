@@ -46,4 +46,10 @@ Chaque bouton avait une situation propre a eux pour mieux comprendre. Par exempl
 <hr>
 <h5>Cette animation murale fonctionne par projection.Elle suggere des options pour devenir plus ecologique a longterme. Quand nous pessons sur un element allume sur le mur, une autre animation suivais.</h5>
 
+![photo](media/animation_mur.png)
+
+<h3>source:emmanuelle mimeault-dumont</h3>
+
+
+
 
