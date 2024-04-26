@@ -1,4 +1,8 @@
 <h2>Armand-Fabien</h2>
+
+![photo](media/sante.png)
+
+<h3>source:emmanuelle mimeault-dumont</h3>
 <h4>Partie 1</h4>
 <h5>À l'entrer, nous pouvions voir deux salles séparées au loin. La première décrivais principalement la digestion de l'estomac d'un etre humain. Ils disposaientt de plusieurs dispositifs multimédia. Des jeux intéractifs ou auditifs qui attiraient beaucoup les enfants avec leur parent. De plus, l'animation prennait du sens quand nous appuyons sur un bouton avec un texte explicatif sur le coté.Un en particulier accrochait le regard plus que les autres.</h5>
 image
@@ -22,7 +26,7 @@ Chaque bouton avait une situation propre a eux pour mieux comprendre. Par exempl
 <h5>Décrivant le chemin de la nourriture de la bouche jusqu'à l'intestin</h5>
 <h4>Informations autres</h4>
 
-![photo](media/prestantion_mur.png)
+![photo](media/presentation_mur.png)
 
 <h3>source:emmanuelle mimeault-dumont</h3>
 
