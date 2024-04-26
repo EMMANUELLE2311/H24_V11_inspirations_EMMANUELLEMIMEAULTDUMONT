@@ -59,6 +59,7 @@
 
 ![photo](medias/table_interactive.png)
 
+<h3>source:emmanuelle mimeault-dumont</h3>
 <h5>Il y a plus particulièrement les cours de Web et les cours d'Audio qui seront surtout utiles pour la création du projet.
 Ils servent à créer l'animation visulemment et auditivemment avec l'équipement adéquat.Par exemple, la programmation de la scène change de valeurs des coordonnées qu est connecter avec la caméra en dessous de la table.De plus, le cour d'oeuvre multimédia pour bien structurer leur projet. La documentation est cruciale pour l'organisation.
 </h5>
