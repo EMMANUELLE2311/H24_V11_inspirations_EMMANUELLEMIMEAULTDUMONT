@@ -6,7 +6,7 @@
 
 <h3>Sonalux</h3>
 
-!
+![photo](medias/.png)
 
 <h3>source:emmanuelle mimeault-dumont<h3/>
 <br>
