@@ -3,16 +3,18 @@
 ![photo](media/sante.png)
 
 <h3>source:emmanuelle mimeault-dumont</h3>
-<h3>informations</h3>
+
+## informations
+<hr>
 <li>type d'exposition:intérieur</li>
 <li>date de visite:7 Mars 2024</li>
 <li>type d'installation:interactive</li>
-
+<hr>
 
 # partie 1
 <hr>
 <h5>À l'entrer, nous pouvions voir deux salles séparées au loin. La première décrivais principalement la digestion de l'estomac d'un etre humain. Ils disposaientt de plusieurs dispositifs multimédia. Des jeux intéractifs ou auditifs qui attiraient beaucoup les enfants avec leur parent. De plus, l'animation prennait du sens quand nous appuyons sur un bouton avec un texte explicatif sur le coté.Un en particulier accrochait le regard plus que les autres.</h5>
-image
+
 <h5>Ceci explique les procédures d'un bon entretien d'agriculture. Les bonnes réponses sont différenciées par le poid de l'objet.Par exemple, si nous mettons la fermette sur la balance et que ce n'est pas la bonne réponse.La machine va refuser et indiquera automatiquement un x. Par contre, nous ne pouvons pas deviner le poid juste avec le visuel donc pour nous aider nous regardons les instructions mentionnés sur l'écran en face de nous.Par la suite, des petites animations donnent vies au jeu et cela rend l'ambiance plus agréable, malgré les mauvaises réponses accumulées.</h5>
 
 # Partie 2
