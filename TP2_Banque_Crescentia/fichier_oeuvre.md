@@ -2,6 +2,10 @@
 
 <h2>Les projets des troisième années, en 2024</h2>
 <h3>Canevas cosmique</h3>
+
+![photo](medias/projection.png)
+
+<h3>source:emmanuelle mimeault-dumont</h3>
 <h4>Les oeuvres sont présentés dans les studios du cégep Montmorency, située 475 De L'avenir Boul, Laval QC H7N5H9</h4>
 <br>
 <h4>
@@ -52,6 +56,9 @@
 <li>1 laptop</li>
 <h4>cour nécessaire</h4>
 <hr>
+
+![photo](medias/table_interactive.png)
+
 <h5>Il y a plus particulièrement les cours de Web et les cours d'Audio qui seront surtout utiles pour la création du projet.
 Ils servent à créer l'animation visulemment et auditivemment avec l'équipement adéquat.Par exemple, la programmation de la scène change de valeurs des coordonnées qu est connecter avec la caméra en dessous de la table.De plus, le cour d'oeuvre multimédia pour bien structurer leur projet. La documentation est cruciale pour l'organisation.
 </h5>
