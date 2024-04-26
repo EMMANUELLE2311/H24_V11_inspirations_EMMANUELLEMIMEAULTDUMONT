@@ -1,4 +1,4 @@
-<h2>Armand-Frabien</h2>
+<h2>Armand-Fabien</h2>
 <h4>Partie 1</h4>
 <h5>À l'entrer, nous pouvions voir deux salles séparées au loin. La première décrivais principalement la digestion de l'estomac d'un etre humain. Ils disposaientt de plusieurs dispositifs multimédia. Des jeux intéractifs ou auditifs qui attiraient beaucoup les enfants avec leur parent. De plus, l'animation prennait du sens quand nous appuyons sur un bouton avec un texte explicatif sur le coté.Un en particulier accrochait le regard plus que les autres.</h5>
 image
