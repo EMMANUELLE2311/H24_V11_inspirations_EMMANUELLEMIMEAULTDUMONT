@@ -22,7 +22,7 @@ Chaque bouton avait une situation propre a eux pour mieux comprendre. Par exempl
 <h5>Décrivant le chemin de la nourriture de la bouche jusqu'à l'intestin</h5>
 <h4>Informations autres</h4>
 
-![photo](media/prestation_mur.png)
+![photo](media/prestantion_mur.png)
 
 <h3>source:emmanuelle mimeault-dumont</h3>
 
