@@ -6,7 +6,7 @@
 
 <h3>Rizhomatique</h3>
 
-![photo](main.png)
+![photo](medias/main.png)
 
 <br>
 <h4>
@@ -35,7 +35,7 @@
   À mon avis, l'oeuvre fait ressortir l'enfant en nous, l'exploration,la découverte par le toucher.
   Un contacte et nous sommes retournées dans nos mémorisations les plus marquantes et les plus lointaines.
 
-  ![photo](mouvement.png)
+  ![photo](medias/mouvement.png)
 
   <h3>source:emmanuelle mimeault-dumont<h3/>
   Passons maintenant a la mise en place de la scène imaginée,les réalisateurs ont mis en oeuvre ce concepte avec du matériels adéquats,cohérant avec le visuel qu'ils veulent présenter,dont une toile interactive.
