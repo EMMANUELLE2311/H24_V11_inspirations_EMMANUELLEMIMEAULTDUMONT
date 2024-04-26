@@ -20,5 +20,26 @@ Chaque bouton avait une situation propre a eux pour mieux comprendre. Par exempl
 <h5>Ils expliquent la création du foetus pendant la pénétration.Dans le ventre,il ne fait que montrer les spermatozoides qui se déplace jusqu'aux ovules.</h5>
 <h4>Transformation digestif</h4>
 <h5>Décrivant le chemin de la nourriture de la bouche jusqu'à l'intestin</h5>
+<h4>Informations autres</h4>
+
+![photo](medias/prestation_mur.png)
+
+<h3>source:emmanuelle mimeault-dumont</h3>
+
+<h4>Equipement</h4>
+<li>2 projecteurs au plafond</li>
+
+![photo](medias/projecteur.png)
+
+<h3>source:emmanuelle mimeault-dumont</h3>
+
+<li>2 lumieres au plafond</li>
+
+![photo](medias/composante_lumiere.png)
+
+<h3>source:emmanuelle mimeault-dumont</h3>
+
+<hr>
+<h5>Cette animation murale fonctionne par projection.Elle suggere des options pour devenir plus ecologique a longterme. Quand nous pessons sur un element allume sur le mur, une autre animation suivais.</h5>
 
 
