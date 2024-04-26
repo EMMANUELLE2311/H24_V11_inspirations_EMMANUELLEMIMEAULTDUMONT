@@ -24,7 +24,7 @@
 
 <h3>source:emmanuelle mimeault-dumont</h3>
 
-<h3>Pendant la chirguie, au contacte de la table, le doight va diriger l'outil vers l'endroit ou la personne veux faire l'action.Par exemple, s'il est demander de faire une insition au torasque, nous allons faire glisser le doight directement vers le torasque et faire une ligne pour la coupure.</h3>
+<h4>Pendant la chirguie, au contacte de la table, le doight va diriger l'outil vers l'endroit ou la personne veux faire l'action.Par exemple, s'il est demander de faire une insition au torasque, nous allons faire glisser le doight directement vers le torasque et faire une ligne pour la coupure.</h4>
 
 ![photo](medias/ineractif.png)
 
