@@ -22,20 +22,20 @@ Chaque bouton avait une situation propre a eux pour mieux comprendre. Par exempl
 <h5>Décrivant le chemin de la nourriture de la bouche jusqu'à l'intestin</h5>
 <h4>Informations autres</h4>
 
-![photo](medias/prestation_mur.png)
+![photo](media/prestation_mur.png)
 
 <h3>source:emmanuelle mimeault-dumont</h3>
 
 <h4>Equipement</h4>
 <li>2 projecteurs au plafond</li>
 
-![photo](medias/projecteur.png)
+![photo](media/projecteur.png)
 
 <h3>source:emmanuelle mimeault-dumont</h3>
 
 <li>2 lumieres au plafond</li>
 
-![photo](medias/composante_lumiere.png)
+![photo](media/composante_lumiere.png)
 
 <h3>source:emmanuelle mimeault-dumont</h3>
 
