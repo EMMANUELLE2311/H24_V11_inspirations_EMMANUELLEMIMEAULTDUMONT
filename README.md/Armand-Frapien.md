@@ -1,4 +1,4 @@
-<h2>Armand-Fabien</h2>
+<h2>Armand-Frappier</h2>
 
 ![photo](media/sante.png)
 
