@@ -6,7 +6,7 @@
 
 <h3>Sonalux</h3>
 
-![photo](medias/.png)
+![photo](medias/fond.png)
 
 <h3>source:emmanuelle mimeault-dumont<h3/>
 <br>
@@ -27,6 +27,9 @@
 <li>Tubes avec LED</li>
 <li>Ordinateur</li>
 
+![photo](medias/fond_02.png)
+
+<h3>source:emmanuelle mimeault-dumont</h3>
 <h2>contexte</h2>
 <h4>Cette projection visuelle et immersive , entourer de trois murs,contient un boitier rectangulaire sur le devant des batons s'illuminent au rythme de la musique.Sur le dessus, il y a des boutons. Ceux qui sont la fonction poussoir sert a faire des effets sonors comme la réverbération. Ceux qui se tournent servent à controler l'intensité.</h4>
 <h3>Mon ressentiment...</h3>
